@@ -1,4 +1,5 @@
-Java
-public class Library {
 
+public class Library {
+    
+    private Publisher[] publishers = new Publisher[]{};
 }
